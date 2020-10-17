@@ -1,2 +1,2 @@
 # coursera_test
-This repository is for an assessment as part of the Coursera Google IT course 
+I am editing the README file. Adding some more details about the project description.
